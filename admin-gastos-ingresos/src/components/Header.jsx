@@ -32,6 +32,7 @@ export function Header() {
   <span className="text-yellow-500 animate-pulse">r</span>
   <span className="text-green-500 animate-bounce">e</span>
   <span className="text-purple-500 animate-blink">s</span>
+  <span className="text-purple-500 animate-blink">o</span>
 </div>
 
 }
